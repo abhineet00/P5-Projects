@@ -156,7 +156,7 @@ const s5 = (sketch) => {
 const s6 = (sketch) => {
   var g = [];
   var c = [];
-  var width = 600;
+  var width = 400;
   sketch.setup = function () {
     sketch.createCanvas(400, 400);
     sketch.background(220);
